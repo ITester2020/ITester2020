@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ITester2020
-- 👀 I’m interested in Appium +serinity+Applitool
+- 👀 I’m interested in Appium +serinity+cucumber
 - 🌱 I’m currently learning Appium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
